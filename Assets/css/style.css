@@ -1,0 +1,75 @@
+* {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-title {
+    color: white;
+    font-weight: 600;
+}
+
+.card-text {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+}
+
+
+.first-text {
+    color: hsl(178, 100%, 50%);
+    margin: 0;
+    font-weight: 400;
+
+}
+
+.ethereum-img {
+    display: flex;
+    align-items: center;
+}
+
+.second-text {
+    color: hsl(215, 51%, 70%);
+    margin: 0;
+    font-weight: 300;
+}
+
+.clock-img {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin-bottom: 10px;
+}
+
+.second-part {
+    border-bottom: 1px solid hsl(215, 51%, 70%);
+}
+
+.avatar-img {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.avatar-img img {
+    height: 35px;
+    width: 35px;
+    margin-right: 15px;
+    border-radius: 50px;
+    border: 1px solid white;
+}
+
+.card-creator {
+    color: hsl(215, 51%, 70%);
+    margin: 0;
+    font-weight: 300;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
