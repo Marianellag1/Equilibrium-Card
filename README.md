@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![marianellag1 github io_Equilibrium-Card_](https://user-images.githubusercontent.com/110939445/199638508-39666571-7409-4cc6-9f3b-4ad60238440e.png)
 
 ### Links
 
