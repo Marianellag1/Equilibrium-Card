@@ -3,14 +3,38 @@
     font-family: 'Outfit', sans-serif;
 }
 
+
+.card-body,
+.card-title,
+h5,
+p,
+img,
+section {
+    background-color: hsl(216, 50%, 16%);
+}
+
+
+.card-img-top {
+    padding: 10px;
+}
+
 .card-title {
-    color: white;
     font-weight: 600;
 }
+
+.card-title a:link {
+    color: white
+}
+
+.card-title a:active {
+    color: hsl(178, 100%, 50%);
+}
+
 
 .card-text {
     color: hsl(215, 51%, 70%);
     font-weight: 300;
+    font-size: 18px;
 }
 
 
@@ -43,6 +67,7 @@
 
 .second-part {
     border-bottom: 1px solid hsl(215, 51%, 70%);
+    background-color: hsl(216, 50%, 16%);
 }
 
 .avatar-img {
@@ -63,6 +88,14 @@
     color: hsl(215, 51%, 70%);
     margin: 0;
     font-weight: 300;
+}
+
+.card-creator a:link {
+    color: white
+}
+
+.card-creator a:active {
+    color: hsl(178, 100%, 50%);
 }
 
 .attribution {
